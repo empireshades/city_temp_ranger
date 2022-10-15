@@ -17,7 +17,11 @@ This is a script which generates an image of temperatures of cities of your choi
 
 ## Usage
 
-If you want to use the script as is, you'll have to get an [OpenWeather](https://openweathermap.org) API account to grab the weather (free within limits) and then update the key in the script. You'll also need to install the requirements (mainly pandas, matplotlib, requests, seaborn) with:
+If you want to use the script as is, you'll have to get an [OpenWeather](https://openweathermap.org) API account to grab the weather (free within limits) and then update the key in the script.
+
+    openweather_api='xxxxxxxxxlolwtfxxxxxxxxxxxxxxxxx'
+
+You'll also need to install the requirements (mainly pandas, matplotlib, requests, seaborn) with:
 
     pip install -r requirements.txt
 
