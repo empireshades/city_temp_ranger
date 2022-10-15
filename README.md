@@ -11,9 +11,7 @@ Show current temperature and low/high ranges for various cities
 
 ## Overview
 
-This is a script which generates an image of temperatures of cities of your choice. This is a concept that's been rolling around in my head for a few years now and I wanted to create something with these **goals** in mind:
-
-I primarily used matplotlib and seaborn to generate a single image (with transparent background) which I display on my (mac) desktop with [Übersicht](https://tracesof.net/uebersicht/) like so (in the upper left hand corner):
+This is a script which generates an image of temperatures of cities of your choice. This is a concept that's been rolling around in my head for a few years now. I primarily used matplotlib and seaborn to generate a single image (with transparent background) which I display on my (mac) desktop with [Übersicht](https://tracesof.net/uebersicht/) like so (in the upper left hand corner):
 
 ![desktop](desktop_upper_left.jpg?raw=true "desktop_upper_left.jpg")
 
